@@ -3,7 +3,7 @@
     "appName": "羽诺TV",
     "webDir": "public",
     "server": {
-        "url": "https://ednovas.video",
+        "url": "http://2kh4790031.wicp.vip:7023/",
         "cleartext": true
     },
     "plugins": {
@@ -13,4 +13,5 @@
             "backgroundColor": "#000000"
         }
     }
+
 }
